@@ -1,2 +1,2 @@
 # meus-graficos
-Gráficos  criados no Google Planilhas — portfólio de visualização de dados.
+Gráficos criados no Excel — portfólio de visualização de dados.
